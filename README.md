@@ -1,6 +1,8 @@
 # BOSD-ECOG
 
 PROBABILISTIC LOCALISATION OF DEPTH ELECTRODE RECORDINGS
+
+Authored by Aaron Warren (aaron.warren@unimelb.edu.au)
 	
 This MatLab script performs analysis steps described in the following paper:
 

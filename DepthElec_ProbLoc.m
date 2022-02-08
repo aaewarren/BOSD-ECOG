@@ -7,7 +7,7 @@
 %This MatLab script performs analysis steps described in the following paper:
 
 %Intrinsic and secondary epileptogenicity in bottom-of-sulcus dysplasia
-%Emma Macdonald-Laurs, Aaron E. L. Warren, Wei Shern Lee, Joseph Yuan-Mou Yang, Duncan MacGregor, Paul J. Lockhart, Richard J. Leventer, Andrew Neal, & Simon Harvey.
+%Emma Macdonald-Laurs, Aaron E. L. Warren, Wei Shern Lee, Joseph Yuan-Mou Yang, Duncan MacGregor, Paul J. Lockhart, Richard J. Leventer, Andrew Neal, & A. Simon Harvey.
 	
 %Usage: run DepthElec_ProbLoc.m
 	

@@ -4,7 +4,7 @@ PROBABILISTIC LOCALISATION OF DEPTH ELECTRODE RECORDINGS
 	
 This MatLab script performs analysis steps described in the following paper:
 
-_Intrinsic and secondary epileptogenicity in bottom-of-sulcus dysplasia
+_Intrinsic and secondary epileptogenicity in bottom-of-sulcus dysplasia_
 
 Emma Macdonald-Laurs, Aaron E. L. Warren, Wei Shern Lee, Joseph Yuan-Mou Yang, Duncan MacGregor, Paul J. Lockhart, Richard J. Leventer, Andrew Neal, & Simon Harvey.
 	

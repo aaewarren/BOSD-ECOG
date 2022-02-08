@@ -12,5 +12,5 @@ Usage: run DepthElec_ProbLoc.m
 		
 The following software dependencies are required: 
 
-Statistical parametric mapping (SPM) version 12: https://www.fil.ion.ucl.ac.uk/spm/software/spm12
-Resting-state fMRI Data Analysis Toolkit version 1.8: http://www.restfmri.net/forum/REST_V1.8
+- Statistical parametric mapping (SPM) version 12: https://www.fil.ion.ucl.ac.uk/spm/software/spm12
+- Resting-state fMRI Data Analysis Toolkit version 1.8: http://www.restfmri.net/forum/REST_V1.8
